@@ -1,0 +1,90 @@
+/*分类*/
+.assort{width: 40%; float: left;margin-top: 40px;}
+.assort ul .active{  border-right: none;background-color: #fff }
+.assort-cont{ width: 52%; margin: 5% 4%; }
+.assort-cont-image{ width: 53%; height:100px; margin-left: -39px; margin-top: 50px;}
+.text {font-size: 16px; color: #999; margin-bottom: 3%;float: left; margin-left: -14px; margin-top: 5px;display: block; }
+.second{font-size: 16px; color: #999;}
+.sort-li{ 
+    width: 67%; 
+    height: 15px; 
+    background-color: #000000; 
+    border-bottom: solid 1px #c8c8c8;  
+    border-right: solid 1px #c8c8c8; 
+    padding:14px 0% 14%  14px;
+    margin: 0;
+}
+.assort :hover{background-color:white; width:99px;}
+.font{ font-size:10pt;  color: #666; vertical-align: middle;}
+.sort-image{ width: 25px; height:25px;  margin: 0 10%; margin-left: 1px; margin-right: 10px; vertical-align: middle;}
+.nav-item {
+  width: 25%;
+  height: 100px;
+  float: right;
+}
+.first-block{width: 400px;height: 225px;margin-top: -10px;}
+.assort-block{width:400px;height:220px; margin-top: 8px;}
+.assort-image{
+   width:90%;
+   height: 80px;  
+   margin-top: 30px; 
+   margin-left: -64%;
+}
+.view1{
+    width: 99%; 
+    height:100px;
+    margin-left: 45%;
+    margin-top: -6%;
+    margin-bottom: 7%;
+}
+/*.view1{
+    width: 60%; 
+    height: 100px;
+    float: left;
+    margin-left: 35%;
+    margin-top: -120%;
+    margin-bottom: 7%;
+}*/
+.tit { 
+  display: block;
+  font-size: 14px; 
+  color: #999; 
+  margin-left: -45%;
+}
+.second-block{width: 200px; margin-bottom: 20px; }
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+.header {
+    display: block;
+    width: 100%;
+    height: 40px;
+    background-color: crimson;
+    position: fixed;
+}
+.head {
+    width:65%;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border-radius: 30px;
+    background: white;
+}
+.head2 {
+    margin-left: -20px;
+    position: absolute;
+    top:5px;
+    left:75%;
+    background: "#DB3652";
+}
+.iconv {
+    position: absolute;
+    top:10px;
+    left: 15px;
+}
+.all{
+    width: 100%;   
+}
+
